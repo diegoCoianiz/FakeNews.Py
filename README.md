@@ -4,7 +4,7 @@
 
 # Introducción
 
-Este estudio de Google Colab corresponde al módulo 6 del bootcamp de Ciencia de Datos & IA de la academia española ![CodeSpace](https://codespaceacademy.com/), y tiene como finalidad el desarrollo de un modelo predictivo de clasificación de noticias falsas propuesto en la plataforma ![Kaggle](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data)
+Este estudio de Google Colab corresponde al módulo 6 del bootcamp de Ciencia de Datos & IA de la academia española [CodeSpace](https://codespaceacademy.com/), y tiene como finalidad el desarrollo de un modelo predictivo de clasificación de noticias falsas propuesto en la plataforma [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data)
 
 # Acerca del conjunto de datos
 
