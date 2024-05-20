@@ -21,7 +21,7 @@ El proyecto consta de 3 notebooks:
 
  * Streamlit web App : Una webpage para predicción de noticias generada con Streamlit, una librería de construcción rápida de páginas estáticas. El notebook levanta una página estática que transforma cadenas de texto, provenientes de un input, en data vectorizada que envía, vía POST, al servidor Flask construido en la etapa 5 del notebook **fake-news-classification** y recibe la respuesta del modelo de producción de MLFlow al final. 
 
-# Contribuyendo
+# Contribuye!
 ¡Las contribuciones son bienvenidas! Si desea contribuir al proyecto, no dude en ponerse en contacto y pullerar sus actualizaciones!
 
 # Licencia
